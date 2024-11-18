@@ -12,7 +12,6 @@ allowing you to:
 - [Linkedin Finder](https://tomba.io/linkedin-finder) (The Linkedin lets you find the current job title, company, location and social profiles of the person behind the linkedin URL.)
 - [Email Verifier](https://tomba.io/email-verifier) (checks the deliverability of a given email address, verifies if it has been found in our database, and returns their sources.)
 - [Email Sources](https://developer.tomba.io/#email-sources) (Find email address source somewhere on the web .)
-- [Company Domain autocomplete](https://developer.tomba.io/#autocomplete) (Company Autocomplete is an API that lets you auto-complete company names and retrieve logo and domain information.)
 
 ## Features
 
